@@ -1,6 +1,6 @@
 Hello the World!
 
-This is a test file
+I MAGE A CHANGE IN LINE 3
 
 This is the fix.
 
