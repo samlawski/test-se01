@@ -1,6 +1,6 @@
 Hello the World!
 
-I MAGE A CHANGE IN LINE 3
+This is a much better change in line 3
 
 This is the fix.
 
